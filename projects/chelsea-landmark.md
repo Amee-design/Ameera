@@ -3,7 +3,7 @@ date: 2019-05-16
 year: 2019
 title: Ameerah Muhammad Ashir
 category: Identity
-thumbnail: "/uploads/605bbb23698545a35ba57949f6551b98.jpg"
+thumbnail: "/uploads/fb_img_15926886181694746.jpg"
 categories:
 - " photography "
 project_bg_color: ''
